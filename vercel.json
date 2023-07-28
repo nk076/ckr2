@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://calfkicker.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+}
